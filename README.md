@@ -37,7 +37,7 @@ Cabe mencionar, que como la metodología de trabajo es por etapas, los roles pue
 
 <br>
 
-![roles](./src/roles.png)
+[roles](./src/roles.png)
 
 <br>
 
