@@ -18,13 +18,13 @@ Este proyecto responde a la necesidad del inversor gastronómico proveniente del
 El objetivo de este proyecto es realizar un análisis del mercado estadounidense específicamente del estado de Florida en el sector de restaurantes de comida rápida. El cliente que nos ha contratado es un inversor que planea instalar una franquicia de comida rápida en Florida y quiere que nuestra consultora de datos (Mindful Data) realice un análisis de dos fuentes principales de información: las opiniones de los usuarios en Yelp y Google Maps para recomendarle qué franquicia de fast food le conviene adquirir. 
 Para cumplir con este objetivo, nuestro equipo se ha propuesto las siguientes metas:
 
-Realizar un análisis de sentimientos y opiniones de las reseñas de Yelp y Google Maps para comprender la percepción de los usuarios sobre el sector fast food en Florida, Estados Unidos.
+- Realizar un análisis de sentimientos y opiniones de las reseñas de Yelp y Google Maps para comprender la percepción de los usuarios sobre el sector fast food en Florida, Estados Unidos.
 
-Predicción del crecimiento o declive del sector fast food basándonos en datos históricos. Para ello, utilizaremos diferentes técnicas de machine learning.
+- Predicción del crecimiento o declive del sector fast food basándonos en datos históricos. Para ello, utilizaremos diferentes técnicas de machine learning.
 
-Sistema de recomendación de restaurantes de fast food.
+- Sistema de recomendación de restaurantes de fast food.
 
-Recomendación de sitios para nuevos locales mediante un modelo de machine learning, se identifican las ciudades dentro del estado de Florida para emplazar nuevos locales del sector en función de reseñas positivas.
+- Recomendación de sitios para nuevos locales mediante un modelo de machine learning, se identifican las ciudades dentro del estado de Florida para emplazar nuevos locales del sector en función de reseñas positivas.
 
 <br>
 
