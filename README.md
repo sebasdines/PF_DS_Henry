@@ -87,7 +87,7 @@ El análisis exploratorio de datos se presenta en el archivo: [EDA_preliminar.ip
 
 ## KPIs
 
-![KPI](<img width="370" alt="image" src="https://github.com/sebasdines/PF_DS_Henry/assets/131495435/4ade18fd-abf8-46a1-95da-996611d8e6ac">)
+![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI1.png)
 
 1. Aumento del 5% en el número de reseñas positivas de Yelp y Google para los negocios de Fast food en comparación al año anterior.
 Fórmula: (Cantidad de reseñas año actual - Cantidad de reseñas año anterior) /(reseñas anterior)
