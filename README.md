@@ -37,7 +37,7 @@ Cabe mencionar, que como la metodología de trabajo es por etapas, los roles pue
 
 <br>
 
-![roles]((https://github.com/sebasdines/PF_DS_Henry/blob/master/src/Roles.png))
+![roles](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/Roles.png)
 
 <br>
 
