@@ -5,7 +5,10 @@
 
 ## Introducción
 
-Somos parte de la consultora Mindful Data contratada por un inversor gastronómico proveniente del estado de Florida que planea instalar una franquicia de comida rápida en Florida y quiere que nuestra consultora realice un análisis de dos fuentes principales de información: las opiniones de los usuarios en Yelp y Google Maps para recomendarle qué franquicia de fast food le conviene adquirir y en qué lugar del estado de Florida. 
+**¿Quiénes somos?**
+
+Somos una firma de consultoría especializada en análisis de datos, reconocida bajo el nombre de MINDFUL DATA. Nuestra labor se centra en el análisis de información procedente de plataformas de reseñas líderes, como Yelp y Google Maps. Nuestro principal objetivo radica en la identificación de patrones y tendencias en las opiniones de los usuarios, con el fin de lograr una comprensión más profunda de sus experiencias, necesidades y expectativas en relación a diversos servicios.
+Este proyecto responde a la necesidad del inversor gastronómico proveniente del estado de Florida que planea instalar una franquicia de comida rápida en Florida y quiere que nuestra consultora realice un análisis de dos fuentes principales de información: Las opiniones de los usuarios en Yelp y Google Maps para recomendarle qué franquicia de fast food le conviene adquirir y en qué lugar del estado de Florida. 
 
 <br>
 
@@ -89,29 +92,7 @@ El análisis exploratorio de datos se presenta en el archivo: [EDA_preliminar.ip
 
 ![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI1.png)
 
-1. Aumento del 5% en el número de reseñas positivas de Yelp y Google para los negocios de Fast food en comparación al año anterior.
-Fórmula: (Cantidad de reseñas año actual - Cantidad de reseñas año anterior) /(reseñas anterior)
-
-2. Disminución del número de reseñas negativas del 5% de Yelp y Google para los negocios de Fast food es menor en comparación al año anterior .
-
-Fórmula: (Cantidad de reseñas año anterior - Cantidad de reseñas año actual) /(reseñas anterior)
-
-
-3. Aumentar el Índice de Satisfacción del Usuario en un 10% durante el próximo semestre.
-
-Fórmula: Índice de Satisfacción del Usuario = (Ponderación_Yelp * Rating_Yelp + Ponderación_Google * Rating_Google) / (Ponderación_Yelp + Ponderación_Google)
-
-- Ponderación_Yelp: Peso en proporción al total (1- total google)
-- Rating_Yelp: Puntuación promedio de Yelp para un restaurante o categoría de restaurantes.
-- Ponderación_Google: Peso en proporción del total (1- total yelp)
-- Rating_Google: Puntuación promedio de Google para un restaurante o categoría de restaurantes.
-
-4. Identificar 3 áreas estratégicas para franquicias de comida rápida en Florida en intervalos semestrales.
-Forma: Localización geográfica de los restaurantes de fast food con stars mayor a 4 para identificar posibles lugares de inversión. 
-Fórmula: (Número de restaurantes de comida rápida con rating > 4 en ubicaciones estratégicas) / (Número total de restaurantes de comida rápida en Florida).
-
-5. Lograr una distribución más uniforme de visitas a lo largo del día durante el próximo trimestre.
-Fórmula: (Visitas en una hora específica / Total de visitas en el período) x 100
+![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI2.png)
 
 <br>
 
