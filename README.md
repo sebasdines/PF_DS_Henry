@@ -128,7 +128,7 @@ Los entregables de la semana 1 se encuentran en la carpeta semana_1:
 
 Los entregables de la semana 2 se encuentran en la carpeta semana_2: 
 
-- ETL de los archivos en local:  [ETL_yelp.ipynb](Semana_2/ETL_yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_gmaps.ipynb), [ETL_gmaps_reviews.ipynb](Semana_2/ETL_gmaps_reviews.ipynb)
+- ETL de los archivos en local:  [ETL_yelp.ipynb](Semana_2/ETL_yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_gmaps.ipynb).
 - [Informe](Semana_2/Informe.pdf)
 - [Presentacion](Semana_2/Presentacion.pdf)
 
