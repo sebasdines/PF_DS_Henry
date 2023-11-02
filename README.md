@@ -5,8 +5,6 @@
 
 ## Introducción
 
-**¿Quiénes somos?**
-
 Somos una firma de consultoría especializada en análisis de datos, reconocida bajo el nombre de MINDFUL DATA. Nuestra labor se centra en el análisis de información procedente de plataformas de reseñas líderes. Nuestro principal objetivo radica en la identificación de patrones y tendencias en las opiniones de los usuarios, con el fin de lograr una comprensión más profunda de sus experiencias, necesidades y expectativas en relación a diversos servicios.
 
 Este proyecto responde a la necesidad del inversor gastronómico proveniente del estado de Florida que planea instalar una franquicia de comida rápida en Florida y quiere que nuestra consultora realice un análisis de dos fuentes principales de información: Las opiniones de los usuarios en Yelp y Google Maps para recomendarle qué franquicia de fast food le conviene adquirir y en qué lugar del estado de Florida. 
@@ -30,7 +28,7 @@ Para cumplir con este objetivo, nuestro equipo se ha propuesto las siguientes me
 
 ## Alcance
 
-Este proyecto se centrará en el análisis de las reseñas de los últimos 5 años de Yelp y Google Maps acerca de las cadenas de fast food más importantes de Estados Unidos con el objetivo de identificar cuál es la mejor opción a la hora de adquirir una franquicia y determinar en qué ciudad del estado de Florida conviene colocarla. 
+Este proyecto se centrará en el análisis de las reseñas de los últimos 5 años de Yelp y Google Maps acerca de las cadenas de fast food más importantes de Florida, Estados Unidos, con el objetivo de identificar cuál es la mejor opción a la hora de adquirir una franquicia y determinar en qué ciudad del estado de Florida conviene colocarla. 
 
 <br>
 
@@ -41,7 +39,7 @@ Cabe mencionar, que como la metodología de trabajo es por etapas, los roles pue
 
 <br>
 
-![roles](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/Roles.png)
+![Roles](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/Roles.png)
 
 <br>
 
@@ -57,20 +55,11 @@ Se adopta la metodología de trabajo Scrum con entregas parciales sobre los avan
 
 <br>
 
-## Workflow
+## Gestión de las tareas
 
-Optamos por Google Cloud como servicio en la nube para gestionar los datos, automatizar procesos y para el  procesamiento de aprendizaje automático :
+Para poder cumplir con los objetivos propuestos semanalmente, se fueron gestionando tareas con ayuda de Trello. Las tareas, su duración y fecha, su avance y porcentaje de completitud se presentan en el siguiente enlace. 
 
-Cloud Storage Buckets como datalake
-Vertex Workbench para realizar el ETL de los datos
-BigQuery, como datawarehouse para almacenar y procesar los datos.
-Vertex AI para  implementar los modelos de aprendizaje.
-Looker Studio como herramienta de visualización de datos y KPIs.
-
-<br>
-
-
-![workflow](./src/workflow.png)
+[Diagrama de Gantt](https://app.ganttpro.com/shared/token/4fb6cd5fc6aea61fe85b23587efc279e50d1d4a2a198f16af78175ced20fd585/1250504#/)
 
 <br>
 
@@ -89,7 +78,9 @@ El análisis exploratorio de datos se presenta en el archivo: [EDA_preliminar.ip
 <br>
 
 
-## KPIs
+## Indicadores claves de rendimiento (KPIs)
+
+A continuación se presentan los 5 KPIs propuestos y sus métricas asociadas.
 
 ![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI1.png)
 
@@ -97,11 +88,49 @@ El análisis exploratorio de datos se presenta en el archivo: [EDA_preliminar.ip
 
 <br>
 
+## Arquitectura 
+
+Optamos por Google Cloud como servicio en la nube para gestionar los datos, automatizar procesos y para el  procesamiento de aprendizaje automático :
+
+- Cloud Storage Buckets como datalake
+- Cloud Functions para realizar el ETL de los datos
+- BigQuery, como datawarehouse para almacenar y procesar los datos.
+- Vertex AI para  implementar los modelos de aprendizaje.
+- Tableau como herramienta de visualización de datos y KPIs.
+
+<br>
+
+El workflow del proceso se presenta a continuación:
+
+![workflow](./src/workflow.png)
+
+<br>
+
+## Diagrama Entidad - Relación
+
+A continuación se presenta el diagrama entidad - relación del modelo presente en Big Query. 
+
+<br>
+
+![diagramaER](./src/diagramaER.png)
+
+<br>
 
 ## Entregables
-Los entregables de esta semana se encuentran en la carpeta Semana 1: 
+
+Los entregables de la semana 1 se encuentran en la carpeta semana_1: 
 
 - Tratamiento de datos previo al EDA preliminar: [Yelp.ipynb](Semana_1/Yelp.ipynb)  y [Google_maps.ipynb](Semana_1/Google_maps.ipynb)
 - [EDA_preliminar.ipynb](Semana_1/EDA_preliminar.ipynb)
 - [Informe](Semana_1/Informe.pdf)
 - [Presentacion](Semana_1/Presentacion.pdf)
+
+
+Los entregables de la semana 2 se encuentran en la carpeta semana_2: 
+
+- ETL de los archivos en local:  [ETL_yelp.ipynb](Semana_2/ETL_yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_gmaps.ipynb), [ETL_gmaps_reviews.ipynb](Semana_2/ETL_gmaps_reviews.ipynb)
+- [Informe](Semana_2/Informe.pdf)
+- [Presentacion](Semana_2/Presentacion.pdf)
+
+
+
