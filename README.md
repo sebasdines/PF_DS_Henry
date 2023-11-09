@@ -1,4 +1,11 @@
-# Recommendation system: Fast Food Franchises
+# Sistema de recomendación: Franquicias de fast - food
+
+
+<p align="center">
+  <img src="/src/logo.png" width="200" height="200">
+</p>
+
+
 
 <br>
 
