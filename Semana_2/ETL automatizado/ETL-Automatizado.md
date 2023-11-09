@@ -72,4 +72,4 @@ En el video se puede ver: una consulta para ver la cantidad de registros de revi
 
 
 <video width="1024" controls>
-  <source src="https://github.com/sebasdines/PF_DS_Henry/blob/master/src/video_carga.mp4" type="video/mp4">
+  <source src="https://github.com/sebasdines/PF_DS_Henry/blob/master/src/video_carga.mp4" type="video/mp4"> </video>
