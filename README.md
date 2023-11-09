@@ -75,7 +75,7 @@ Se adopta la metodología de trabajo Scrum con entregas parciales sobre los avan
 
 ## Gestión de las tareas
 
-Para poder cumplir con los objetivos propuestos semanalmente, se fueron gestionando tareas con ayuda de Trello. Las tareas, su duración y fecha, su avance y porcentaje de completitud se presentan en el siguiente enlace. 
+Para poder cumplir con los objetivos propuestos semanalmente, se fueron gestionando tareas con ayuda de Trello. Las tareas, su duración y fecha, su avance y porcentaje de completitud se presentan a continuación.
 
 ![Diagrama de Gantt](./src/Gantt.png)
 
