@@ -68,6 +68,4 @@ Video carga incremental con etl automatico automatica
 En el video se puede ver: una consulta para ver la cantidad de registros de reviews, a continuacion se ingresa manualmente un archivo con 100 registros de un dataset sintetico, se observa la actividad en el Cloud Function y para finalizar se hace una nueva consulta para verificar el incremento en los registros.
 
 
-<a href="https://drive.google.com/file/d/18R-IQxnabxLFVNuzl6xtp4X0Iz63pCyg/view?usp=drive_link"><video src ="/src/video_carga.mp4" style="width: 1024px; max-width: 100%; height: auto" title="Click en la imagen" >
-
 ![Video](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/video_carga.gif)
