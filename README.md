@@ -74,8 +74,7 @@ Se adopta la metodología de trabajo Scrum con entregas parciales sobre los avan
 
 Para poder cumplir con los objetivos propuestos semanalmente, se fueron gestionando tareas con ayuda de Trello. Las tareas, su duración y fecha, su avance y porcentaje de completitud se presentan en el siguiente enlace. 
 
-[Diagrama de Gantt](https://app.ganttpro.com/shared/token/3e272cfb16ebd78191c503a252005c271d24cc1ea10aa3460134e4dbb8d1e1b6/1250504)
-
+[Diagrama de Gantt](https://app.ganttpro.com/shared/token/ab3fb6d8ff2139ab4a90ea4d8c8eb51207fa26c920bb6b58cd1f8acef0a2ea90/1265694#/)
 <br>
 
 ## Análisis exploratorio de datos
