@@ -132,9 +132,11 @@ A continuación se presenta el diagrama entidad - relación del modelo presente 
 
 A continuación se presentan los 5 KPIs propuestos y sus métricas asociadas.
 
-![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI1.png)
 
 ![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI2.png)
+
+![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI1.png)
+
 
 <br>
 
