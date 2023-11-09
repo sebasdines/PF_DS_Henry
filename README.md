@@ -169,7 +169,7 @@ Los entregables de la semana 1 se encuentran en la carpeta Semana_1:
 Los entregables de la semana 2 se encuentran en la carpeta Semana_2: 
 
 - ETL de los archivos en local:  [ETL_Yelp.ipynb](Semana_2/ETL_Yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_Gmaps.ipynb)
-- ETL Automatizado: [ETL Automatizado](Semana_2/ETL-Automatizado/ETL-Automatizado.md), [Función](Semana_2/ETL-Automatizado/Function.py), [ETL Automatizado](Semana_2/ETL-Automatizado/API-YELP.md)
+- ETL Automatizado: [ETL Automatizado](Semana_2/ETL-Automatizado)
 - [Informe](Semana_2/Informe.pdf) 
 - [Presentacion](Semana_2/Presentacion.pdf)
 
