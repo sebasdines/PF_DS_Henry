@@ -117,7 +117,9 @@ El workflow del proceso se presenta a continuación:
 
 
 ## Automatización 
+Para la automatizacion del proceso de ETL, implementamos Google Cloud Functions, al ingresar un archivo al Bucket indicado se inicia el proceso de ETL, que incluye la validacion, transformacion, limpieza y carga de datos al Data Warehouse en Big Query.
 
+<br>
 
 ## Diagrama de entidad - relación
 A continuación se presenta el diagrama entidad - relación del modelo presente en nuestro datawarehouse, Big Query. 
@@ -166,9 +168,9 @@ Los entregables de la semana 1 se encuentran en la carpeta Semana_1:
 
 Los entregables de la semana 2 se encuentran en la carpeta Semana_2: 
 
-- ETL de los archivos en local:  [ETL_Yelp.ipynb](Semana_2/ETL_Yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_Gmaps.ipynb).
-- [Funciones Cloud](Semana_2/Funciones_cloud.pdf)
-- [Informe](Semana_2/Informe.pdf)
+- ETL de los archivos en local:  [ETL_Yelp.ipynb](Semana_2/ETL_Yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_Gmaps.ipynb)
+- ETL Automatizado: [ETL Automatizado](Semana_2/ETL-Automatizado/ETL-Automatizado.md), [Función](Semana_2/ETL-Automatizado/Function.py), [ETL Automatizado](Semana_2/ETL-Automatizado/API-YELP.md)
+- [Informe](Semana_2/Informe.pdf) 
 - [Presentacion](Semana_2/Presentacion.pdf)
 
 
