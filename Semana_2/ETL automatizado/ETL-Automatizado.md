@@ -69,3 +69,7 @@ En el video se puede ver: una consulta para ver la cantidad de registros de revi
 
 
 <a href="https://drive.google.com/file/d/18R-IQxnabxLFVNuzl6xtp4X0Iz63pCyg/view?usp=drive_link"><video src ="/src/video_carga.mp4" style="width: 1024px; max-width: 100%; height: auto" title="Click en la imagen" >
+
+
+<video width="1024" controls>
+  <source src="https://github.com/sebasdines/PF_DS_Henry/blob/master/src/video_carga.mp4" type="video/mp4">
