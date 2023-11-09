@@ -24,7 +24,7 @@ Para la extracción, transformación y carga de datos del proyecto, se siguió e
 
 <p align='center'>
 <img src="/src/python.png" width="60" height="60">
-<img src="/src/jupyter_etl.png" width="60" height="60">
+<img src="/src/archivo_jp.png" width="60" height="60">
 <img src="/src/pandas.png" width="60" height="60">
 <img src="/src/gcloud.png" width="60" height="60">
 <p>
