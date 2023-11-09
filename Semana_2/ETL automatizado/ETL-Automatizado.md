@@ -1,5 +1,5 @@
 <p align='center'>
-<img src ="src/data.jpg">
+<img src ="/src/data.jpg">
 <p>
 
 <h1 align='center'>
@@ -17,16 +17,16 @@
 Para la extracción, transformación y carga de datos del proyecto, se siguió el siguiente flujo:
 
 <p align='center'>
-<img src ="src/pipeline.png">
+<img src ="/src/pipeline.png">
 <p>
 
 <h1 align="center">Tecnologias utilizadas</h1>
 
 <p align='center'>
-<img src="src/python.png" width="60" height="60">
-<img src="src/jupyter.png" width="60" height="60">
-<img src="src/pandas.png" width="60" height="60">
-<img src="src/gcloud.png" width="60" height="60">
+<img src="/src/python.png" width="60" height="60">
+<img src="/src/jupyter.png" width="60" height="60">
+<img src="/src/pandas.png" width="60" height="60">
+<img src="/src/gcloud.png" width="60" height="60">
 <p>
 
 # **Data Lake**
@@ -37,7 +37,7 @@ Para la extracción, transformación y carga de datos del proyecto, se siguió e
 
 
 <p align='center'>
-<img src ="src/bucket.png">
+<img src ="/src/bucket.png">
 <p>
 
 # **Cloud Function**
@@ -47,7 +47,7 @@ Para la automatizacion del proceso de ETL, implementamos Google Cloud Functions,
 
 
 <p align='center'>
-<img src ="src/cloud_function.png">
+<img src ="/src/cloud_function.png">
 <p>
 
 
@@ -57,7 +57,7 @@ Para la automatizacion del proceso de ETL, implementamos Google Cloud Functions,
 Elegimos Big Query como nuestra estructura de base de datos, donde se almacenan y gestionan todos los datos limpios desde esta estructura se van a tomar los datos para los modelos de machine learning y para las consultas que requieran los analistas de datos para generar las visualizaciones
 
 <p align='center'>
-<img src ="src/bigquery.png">
+<img src ="/src/bigquery.png">
 <p>
 
 
