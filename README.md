@@ -134,12 +134,9 @@ A continuación se presenta el diagrama entidad - relación del modelo presente 
 
 A continuación se presentan los 5 KPIs propuestos y sus métricas asociadas.
 
-
-![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI2.png)
-
 ![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI1.png)
 
-
+![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI2.png)
 <br>
 
 A continuación se presenta el enlace al dashboard que se ha desarrollado con el propósito de proporcionar una visión en tiempo real de los datos clave que impulsarán las decisiones estratégicas del inversor. A través de una combinación de visualizaciones intuitivas, métricas esenciales y análisis detallados, nuestro objetivo es ofrecer un panorama completo y claro de la situación actual del proyecto.
