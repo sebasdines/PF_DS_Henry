@@ -13,6 +13,7 @@
 - [Análisis exploratorio de datos](#Análisis)
 - [Arquitectura](#Arquitectura)
 - [Automatizacion](#Automatizacion)
+- [Diagrama entidad - relación ](#Diagrama)
 - [Indicadores claves de rendimiento y Panel de control](#KPIs)
 - [Modelo de machine learning](#Modelo_ML)
 - [Resultados y conclusiones](#Resultados-y-conclusiones)
@@ -74,7 +75,8 @@ Se adopta la metodología de trabajo Scrum con entregas parciales sobre los avan
 
 Para poder cumplir con los objetivos propuestos semanalmente, se fueron gestionando tareas con ayuda de Trello. Las tareas, su duración y fecha, su avance y porcentaje de completitud se presentan en el siguiente enlace. 
 
-[Diagrama de Gantt](https://app.ganttpro.com/shared/token/ab3fb6d8ff2139ab4a90ea4d8c8eb51207fa26c920bb6b58cd1f8acef0a2ea90/1265694#/)
+[Diagrama de Gantt](https://app.ganttpro.com/shared/token/ab3fb6d8ff2139ab4a90ea4d8c8eb51207fa26c920bb6b58cd1f8acef0a2ea90/1265694)
+
 <br>
 
 ## Análisis exploratorio de datos
@@ -113,6 +115,7 @@ El workflow del proceso se presenta a continuación:
 ## Automatización 
 
 
+## Diagrama de entidad - relación
 A continuación se presenta el diagrama entidad - relación del modelo presente en nuestro datawarehouse, Big Query. 
 
 <br>
@@ -125,10 +128,15 @@ A continuación se presenta el diagrama entidad - relación del modelo presente 
 
 A continuación se presentan los 5 KPIs propuestos y sus métricas asociadas.
 
-![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/Captura%20de%20pantalla%202023-11-08%20222943.png)
+![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI1.png)
 
-![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/Captura%20de%20pantalla%202023-11-08%20223021.png)
+![KPI](https://github.com/sebasdines/PF_DS_Henry/blob/master/src/KPI2.png)
 
+<br>
+
+A continuación se presenta el enlace al dashboard que se ha desarrollado con el propósito de proporcionar una visión en tiempo real de los datos clave que impulsarán las decisiones estratégicas del inversor. A través de una combinación de visualizaciones intuitivas, métricas esenciales y análisis detallados, nuestro objetivo es ofrecer un panorama completo y claro de la situación actual del proyecto.
+
+Enlace al dashboard: [Panel de control](https://app-exzyyajzmkwgv3a7dos4qt.streamlit.app/)
 <br>
 
 ## Modelo de Machine Learning
@@ -153,13 +161,14 @@ Los entregables de la semana 1 se encuentran en la carpeta Semana_1:
 Los entregables de la semana 2 se encuentran en la carpeta Semana_2: 
 
 - ETL de los archivos en local:  [ETL_Yelp.ipynb](Semana_2/ETL_Yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_Gmaps.ipynb).
-- Funciones Cloud:
+- [Funciones Cloud](Semana_2/Funciones_cloud.pdf)
 - [Informe](Semana_2/Informe.pdf)
 - [Presentacion](Semana_2/Presentacion.pdf)
 
 
 Los entregables de la semana 3 se encuentran en la carpeta Semana_3: 
-- Modelo de Machine Learning
+- [Modelo de Machine Learning](Semana_3/Presentacion_final.pdf)
+- [Streamlit](Semana_3/Streamlit)
 - [Informe](Semana_3/Informe.pdf)
 - [Presentacion](Semana_3/Presentacion_final.pdf)
 
