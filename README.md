@@ -164,7 +164,7 @@ Los entregables de la semana 2 se encuentran en la carpeta Semana_2:
 
 
 Los entregables de la semana 3 se encuentran en la carpeta Semana_3: 
-- [Modelo de Machine Learning](Semana_3/Presentacion_final.pdf)
+- [Modelo de Machine Learning](Semana_3/Modelo_ML.pdf)
 - [Streamlit](Semana_3/Streamlit)
 - [Informe_final](Semana_3/Informe_final_.pdf)
 - [Presentacion](Semana_3/Presentacion_final.pdf)
