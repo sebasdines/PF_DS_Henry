@@ -12,7 +12,6 @@
 - [ETL](#ETL)
 - [Metodología de trabajo](#Metodologia)
 - [Gestión de tareas](#Gestion)
-- [Análisis exploratorio de datos](#Análisis)
 - [Arquitectura](#Arquitectura)
 - [Automatizacion](#Automatizacion)
 - [Diagrama entidad - relación ](#Diagrama)
@@ -81,19 +80,6 @@ Para visualizar el diagrama de Gantt en la plataforma de Gantt Pro acceda al sig
 
 <br>
 
-## Análisis exploratorio de datos
-
-En esta sección se realiza un primer análisis de los datos provistos por YELP y Google Maps. El objetivo de esta instancia es identificar los tipos de datos, conocer su calidad y los potenciales procesos de transformación a los que deberá ser sometida la data. Cabe mencionar, que en esta instancia no se intenta realizar un análisis exploratorio en profundidad, sino más bien tener un primer panorama de los dataset con su descripción general.  
-
-<br>
-
-El tratamiento de los datos previo al análisis exploratorio se presenta en los archivos: [Yelp.ipynb](Semana_1/Yelp.ipynb) y [Google_maps.ipynb](Semana_1/Google_maps.ipynb).
-
-El análisis exploratorio de datos se presenta en el archivo: [EDA_preliminar.ipynb](Semana_1/EDA_preliminar.ipynb)
-
-
-<br>
-
 ## Arquitectura 
 
 Optamos por Google Cloud como servicio en la nube para gestionar los datos, automatizar procesos y para el  procesamiento de aprendizaje automático :
@@ -144,8 +130,13 @@ Enlace al dashboard: [Panel de control](https://app-exzyyajzmkwgv3a7dos4qt.strea
 
 ## Modelo de Machine Learning
 
-Se implementa el modelo de Machine Learning como respuesta a la necesidad del cliente. Se busca recomendar la franquicia más adecuada a adquirir dentro del rubro de fast - food que le garantice el éxito de la inversión.
-Para esto, se realizó un análisis de sentimiento de las reseñas para clasificarlas en positivas, neutras o negativas y se tomó como referencia los negocios más rankeados y con mejores resistencias. 
+El Sistema de Recomendación se diseñó con los siguientes objetivos clave:
+
+- Personalización: Proporcionar recomendaciones basadas en las preferencias de los usuarios y las tendencias de reseñas a través de los comentarios en la plataforma Yelp y Gmaps.
+- Eficiencia: Optimizar el tiempo y los recursos de inversión al ofrecer recomendaciones precisas y relevantes.
+- Diversificación de Franquicias: Fomentar la diversificación de franquicias en el mercado, proporcionando información sobre diferentes opciones.
+- Análisis de Sentimientos: Incorporar análisis de sentimientos en las reseñas para comprender las experiencias de los usuarios
+
 <br>
 
 ## Resultados y Conclusiones
