@@ -141,7 +141,7 @@ El Sistema de Recomendación se diseñó con los siguientes objetivos clave:
 
 ## Resultados y Conclusiones
 
-En resumen, la creación de un Data Warehouse en GCP es un paso fundamental para desbloquear el potencial de sus datos. La carga inicial y la carga incremental son etapas cruciales para asegurar que los datos sean precisos, actualizados y listos para el análisis. Google Cloud Storage ofrece un conjunto de herramientas poderosas para llevar a cabo estas tareas de manera eficiente y confiable. Al invertir en la creación y el mantenimiento de su Data Warehouse, su organización estará en una posición sólida para tomar decisiones informadas y estratégicas basadas en datos precisos y oportunos.
+En resumen, la creación de un Data Warehouse en GCP es un paso fundamental para desbloquear el potencial de sus datos. La carga inicial y la carga incremental son etapas cruciales para asegurar que los datos sean precisos, actualizados y listos para el análisis. Google Cloud Storage ofrece un conjunto de herramientas poderosas para llevar a cabo estas tareas de manera eficiente y confiable. Al invertir en la creación y el mantenimiento de su Data Warehouse, su organización estará en una posición sólida para tomar decisiones informadas y estratégicas basadas en datos precisos y oportunos. El cual dio la oportunidad para crear un dashboard que detecta posibilidades de inversión y rastrea la evolución de la satisfacción del cliente, lo que otorga una posición competitiva destacada en el mercado de comida rápida en Florida. Asimismo, un sistema de recomendación que tiene en cuenta las preferencias de los usuarios y las tendencias en las reseñas de locales de comida rápida
 
 <br>
 
