@@ -41,9 +41,9 @@ Para cumplir con este objetivo, nuestro equipo se ha propuesto las siguientes me
 
 - Predicción del crecimiento o declive del sector fast food basándonos en datos históricos.
 
-- Sistema de recomendación de restaurantes de fast food que tengan reseñas positivas y rating elevado y su ubicación.
+- Sistema de recomendación de restaurantes de fast food personalizado, eficiente que diversifica las franquicias.
  
-Este proyecto se centrará en el análisis de las reseñas de los últimos 5 años de Yelp y Google Maps acerca de las cadenas de fast food más importantes de Florida, Estados Unidos, con el objetivo de identificar cuál es la mejor opción a la hora de adquirir una franquicia y determinar en qué ciudad del estado de Florida conviene colocarla. 
+Este proyecto se centrará en el análisis de las reseñas de los últimos 5 años de Yelp y Google Maps acerca de las cadenas de fast food más importantes de Florida, Estados Unidos, con el objetivo de identificar cuál es la mejor opción a la hora de adquirir una franquicia basado en un sistema de recomendación que tiene en cuenta la preferencia de los usuarios y las tendencias en las reseñas de locales de comida rápida en la ciudad de Florida. 
 
 <br>
 
