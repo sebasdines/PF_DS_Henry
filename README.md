@@ -42,9 +42,7 @@ Para cumplir con este objetivo, nuestro equipo se ha propuesto las siguientes me
 
 - Predicción del crecimiento o declive del sector fast food basándonos en datos históricos.
 
-- Sistema de recomendación de restaurantes de fast food.
-
-- Recomendación de sitios para nuevos locales mediante un modelo de machine learning, se identifican las ciudades dentro del estado de Florida para emplazar nuevos locales del sector en función de reseñas positivas.
+- Sistema de recomendación de restaurantes de fast food que tengan reseñas positivas y rating elevado y su ubicación.
  
 Este proyecto se centrará en el análisis de las reseñas de los últimos 5 años de Yelp y Google Maps acerca de las cadenas de fast food más importantes de Florida, Estados Unidos, con el objetivo de identificar cuál es la mejor opción a la hora de adquirir una franquicia y determinar en qué ciudad del estado de Florida conviene colocarla. 
 
@@ -145,6 +143,9 @@ Enlace al dashboard: [Panel de control](https://app-exzyyajzmkwgv3a7dos4qt.strea
 <br>
 
 ## Modelo de Machine Learning
+
+Se implementa el modelo de Machine Learning como respuesta a la necesidad del cliente. Se busca recomendar la franquicia más adecuada a adquirir dentro del rubro de fast - food que le garantice el éxito de la inversión.
+Para esto, se realizó un análisis de sentimiento de las reseñas para clasificarlas en positivas, neutras o negativas y se tomó como referencia los negocios más rankeados y con mejores resistencias. 
 <br>
 
 ## Resultados y Conclusiones
