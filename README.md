@@ -152,7 +152,6 @@ Los entregables de la semana 1 se encuentran en la carpeta Semana_1:
 - Tratamiento de datos previo al EDA preliminar: [Yelp.ipynb](Semana_1/Yelp.ipynb)  y [Google_maps.ipynb](Semana_1/Google_maps.ipynb)
 - [EDA_preliminar.ipynb](Semana_1/EDA_preliminar.ipynb)
 - [Informe](Semana_1/Informe.pdf)
-- [Presentacion](Semana_1/Presentacion.pdf)
 
 
 Los entregables de la semana 2 se encuentran en la carpeta Semana_2: 
@@ -160,13 +159,11 @@ Los entregables de la semana 2 se encuentran en la carpeta Semana_2:
 - ETL de los archivos en local:  [ETL_Yelp.ipynb](Semana_2/ETL_Yelp.ipynb), [ETL_gmaps.ipynb](Semana_2/ETL_Gmaps.ipynb)
 - ETL Automatizado: [ETL Automatizado](Semana_2/ETL automatizado)
 - [Informe](Semana_2/Informe.pdf) 
-- [Presentacion](Semana_2/Presentacion.pdf)
 
 
 Los entregables de la semana 3 se encuentran en la carpeta Semana_3: 
 - [Modelo de Machine Learning](Semana_3/Modelo_ML.pdf)
 - [Streamlit](Semana_3/Streamlit)
 - [Informe_final](Semana_3/Informe_final_.pdf)
-- [Presentacion](Semana_3/Presentacion_final.pdf)
 
 <br>
